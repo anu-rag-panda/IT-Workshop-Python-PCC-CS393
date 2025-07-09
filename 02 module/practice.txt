@@ -1,0 +1,29 @@
+🔹 Practice Problems
+
+🧠 Theory-Based
+
+Differentiate between if and if-else.
+
+When do you use a while loop instead of a for loop?
+
+What is a nested loop?
+
+💻 Code-Based
+
+Write a program to input a number and check:
+
+If it is positive, negative, or zero.
+
+Print the multiplication table of a given number using a for loop.
+
+Write a program to check if a given year is a leap year.
+
+Write a program using a nested loop to print the following pattern:
+
+*
+* *
+* * *
+* * * *
+
+
+

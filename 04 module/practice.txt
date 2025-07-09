@@ -1,0 +1,23 @@
+🔹 Practice Problems
+
+🧠 Theory-Based
+
+What is string slicing? Give syntax and example.
+
+Name any five string methods and their purpose.
+
+💻 Code-Based
+
+Take a string input from the user and print it in:
+
+Uppercase
+
+Reversed order
+
+Without leading/trailing whitespace
+
+Write a program to count the number of vowels in a string.
+
+Check if the given string is a palindrome (same forward and backward).
+
+Split a sentence into words and print them line by line.

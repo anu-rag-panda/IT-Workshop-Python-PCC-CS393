@@ -1,0 +1,24 @@
+🔹 Practice Problems
+
+🧠 Theory-Based
+
+What are lists? How are they different from strings?
+
+Mention 5 list methods and their uses.
+
+💻 Code-Based
+
+Create a list of 5 numbers. Perform:
+Append one number
+Remove the second item
+Sort and print the list
+
+Write a program to:
+
+Take 5 inputs from the user and store them in a list.
+Display only even numbers from that list.
+
+Count how many times a user-given number appears in a list.
+
+Write a program that merges two lists and removes duplicates.
+

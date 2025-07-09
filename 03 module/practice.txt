@@ -1,0 +1,19 @@
+🔹 Practice Problems
+
+🧠 Theory-Based
+
+What is the difference between break and continue?
+
+In which situations is pass useful?
+
+💻 Code-Based
+
+Write a program that:
+
+Prints numbers from 1 to 10.
+
+Stops printing when the number is 6 using break.
+
+Write a program to print all odd numbers between 1 to 10 using continue.
+
+Use pass inside a loop and if block and demonstrate that it does nothing.

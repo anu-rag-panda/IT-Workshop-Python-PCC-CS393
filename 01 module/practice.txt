@@ -1,0 +1,21 @@
+🔹 Practice Problems
+
+🧠 Theory-Based
+
+Who developed Python and when?
+
+List five features of Python.
+
+Explain the difference between script mode and interactive mode.
+
+💻 Code-Based
+
+Write a Python program to:
+
+Declare three variables of different data types.
+
+Print their types using type() function.
+
+Use arithmetic and comparison operators on two integers and print results.
+
+Check whether the character 'a' is present in a string variable.
