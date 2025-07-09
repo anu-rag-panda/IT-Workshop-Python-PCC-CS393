@@ -44,14 +44,14 @@ Syntax: `string[start:end:step]`
 
 | **Method** | **Description** |
 |--------|-------------|
-| lower() | Converts to lowercase |
-| upper() | Converts to uppercase |
-| strip() | Removes leading/trailing spaces |
-| replace(old,new) | Replaces substrings |
-| split() | Splits string into a list |
-| find() | Returns index of substring |
-| startswith() | Checks if string starts with a substring |
-| endswith() | Checks if string ends with a substring |
-| isalpha() | Checks if all characters are alphabetic |
-| isdigit() | Checks if all characters are digits |
+| `lower()` | Converts to lowercase |
+| `upper()` | Converts to uppercase |
+| `strip()` | Removes leading/trailing spaces |
+| `replace(old,new)` | Replaces substrings |
+| `split()` | Splits string into a list |
+| `find()` | Returns index of substring |
+| `startswith()` | Checks if string starts with a substring |
+| `endswith()` | Checks if string ends with a substring |
+| `isalpha()` | Checks if all characters are alphabetic |
+| `isdigit()` | Checks if all characters are digits |
 
