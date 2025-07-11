@@ -1,0 +1,10 @@
+1. Write a program to handle division by zero using try-except.
+2. Handle invalid input using ValueError.
+3. Use try-finally to ensure a message is printed at the end.
+4. Create a custom exception for negative numbers.
+5. Raise and catch your custom exception.
+6. Write a program that uses multiple except clauses.
+7. Demonstrate the use of else with try-except.
+8. Explain the difference between except and finally.
+9. List three common built-in exceptions in Python.
+10. Why is exception handling important in

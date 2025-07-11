@@ -1,0 +1,12 @@
+1. Define a tuple with five elements and print it.
+2. Access the third element of a tuple.
+3. Slice a tuple from index 2 to 4.
+4. Concatenate two tuples and print the result.
+5. Repeat a tuple three times.
+6. Check if a value exists in a tuple.
+7. Find the length of a tuple.
+8. Create a tuple with mixed data types.
+9. Use tuple methods to count occurrences of a value.
+10. Find the index of a value in a tuple.
+11. Use built-in functions like max(), min(), and sum() on a tuple.
+12. Explain the difference between tuples and lists.

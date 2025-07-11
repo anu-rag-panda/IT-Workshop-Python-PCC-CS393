@@ -1,0 +1,12 @@
+1. Create a dictionary with three key-value pairs and print it.
+2. Access the value of a specific key in a dictionary.
+3. Add a new key-value pair to a dictionary.
+4. Update the value of an existing key.
+5. Delete a key from a dictionary.
+6. Use the get() method to safely access a value.
+7. Iterate over keys and values in a dictionary.
+8. List all keys and all values in a dictionary.
+9. Find the length of a dictionary.
+10. Use the pop() method to remove a key-value pair.
+11. Clear all items from a dictionary.
+12. Explain the difference between lists and
